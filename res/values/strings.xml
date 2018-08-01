@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Magnetic Stripe Reader</string>
-	<string name="data_default">[Swipe card now]</string>
-</resources>
