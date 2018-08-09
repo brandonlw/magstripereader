@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MBSTest</string>
+    <string name="data_default">[Swipe card now]</string>
+</resources>
